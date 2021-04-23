@@ -1,7 +1,4 @@
-### Hi there 👋
-I am gyuree from Seoul, Korea.<br>
-My happiness is from getting into a new field!
-I do rarely hesitate to learn new things or meet new people since those new are my motivation to make a step forward🥰
+### Power it through
 
 🌱 I’m currently learning ...
 - Deep Learning
