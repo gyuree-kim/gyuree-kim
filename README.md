@@ -1,6 +1,7 @@
 ### Power it through
 
 🌱 I’m currently learning ...
+- Backend with nodejs, mongodb > [in progress..](https://github.com/gyuree-kim/auto-schedule-updater)
 - Deep Learning
 - Algorithm
 
