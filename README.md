@@ -1,8 +1,8 @@
 ### Power it through
 
 🌱 I’m currently learning ...
-- Backend with nodejs, mongodb > [in progress..](https://github.com/gyuree-kim/auto-schedule-updater)
-- Deep Learning
+- Backend with nodejs, mongodb > in progress.. [auto-schedule-updater](https://github.com/gyuree-kim/auto-schedule-updater) and [git crawler app]()
+- Deep Learning > [android app which detects location entities](https://github.com/gyuree-kim/auto-schedule-updater)
 - Algorithm
 
 🌱 Project list I've done
@@ -11,9 +11,6 @@
 - 🗣️ Hanguler official website: 1 on 1 Korean class on a phone 
   - role: PM
   - The result is [here](http://www.hangulers.com)
-- 🖥️ Auto schedule updater app(Android)
-  - Used Korean NLP to detect words(entities) related to location
-  - Not finished yet
 
 <!--
 **gyuree-kim/gyuree-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
